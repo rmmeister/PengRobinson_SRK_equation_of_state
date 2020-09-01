@@ -4,8 +4,11 @@
 60, 100, 300, 400 and 500 bar.
 
 a- Using the SRK EoS.
+
 b- Using the PR EoS.
+
 c- Plot the results for Z-factors and molar volumes of CO2 vs P.
+
 d- On the plot, compare the results obtained for the Z-factor from the SRK and the PR
 EoS’s with those reported in literature and discuss on the discrepancies.
 
